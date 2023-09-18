@@ -1,11 +1,5 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Bhavya Shah</h1>
 <h3 align="center">A Mechatronics Student at McMaster University who loves front-end web development</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bh4vya&label=Profile%20views&color=0e75b6&style=flat" alt="bh4vya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bh4vya" alt="bh4vya" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js, MongoDB**
 
