@@ -25,6 +25,9 @@
 
 
 
-https://github.com/bh4vya/bh4vya/assets/98927979/c8789c69-528d-4195-a022-13e918aa2ce4
+<p> I have also delved into deep learning through object classification. Here is a sample of my work </p>
+
+https://github.com/bh4vya/bh4vya/assets/98927979/9f1e3d71-456c-4c5d-858f-ba6c9da955bf
+
 
 
