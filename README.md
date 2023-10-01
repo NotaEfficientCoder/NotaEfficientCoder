@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Bhavya Shah</h1>
 <h3 align="center">A Mechatronics Student at McMaster University who loves front-end web development</h3>
 
@@ -27,7 +28,6 @@
 
 <p> I have also delved into deep learning through object classification. Here is a sample of my work: </p>
 
-https://github.com/bh4vya/bh4vya/assets/98927979/9f1e3d71-456c-4c5d-858f-ba6c9da955bf
 
-
+https://github.com/bh4vya/bh4vya/assets/98927979/23431836-c4d0-47c8-939a-6ea3d262e73b
 
