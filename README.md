@@ -28,4 +28,4 @@
 
 <h3 align="left">Video Work Samples:</h3>
 
-<a href = "https://youtu.be/YEvcDaNWhkI" target = "blank">Object Detection</a>
+<a href = "https://youtu.be/YEvcDaNWhkI" target = "blank">Object Detection Using PyTorch, OpenCV, and YoloV5</a>
