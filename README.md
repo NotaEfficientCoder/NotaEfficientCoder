@@ -28,6 +28,5 @@
 
 <p> I have also delved into deep learning through object classification. Here is a sample of my work: </p>
 
-
-https://github.com/bh4vya/bh4vya/assets/98927979/23431836-c4d0-47c8-939a-6ea3d262e73b
+https://youtu.be/YEvcDaNWhkI 
 
