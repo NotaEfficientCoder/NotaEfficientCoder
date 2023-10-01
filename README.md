@@ -26,7 +26,6 @@
 
 
 
-<p> I have also delved into deep learning through object classification. Here is a sample of my work: </p>
-
+<h3 align="left">Video Work Samples:</h3>
 
 <a href = "https://youtu.be/YEvcDaNWhkI" target = "blank">Object Detection</a>
