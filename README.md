@@ -29,4 +29,4 @@
 <p> I have also delved into deep learning through object classification. Here is a sample of my work: </p>
 
 
-<a href = "https://youtu.be/YEvcDaNWhkI" target = "blank"></a>
+<a href = "https://youtu.be/YEvcDaNWhkI" target = "blank">Object Detection</a>
