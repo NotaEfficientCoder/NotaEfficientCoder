@@ -25,7 +25,7 @@
 
 
 
-<p> I have also delved into deep learning through object classification. Here is a sample of my work </p>
+<p> I have also delved into deep learning through object classification. Here is a sample of my work: </p>
 
 https://github.com/bh4vya/bh4vya/assets/98927979/9f1e3d71-456c-4c5d-858f-ba6c9da955bf
 
