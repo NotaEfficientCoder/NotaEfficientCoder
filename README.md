@@ -22,8 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bh4vya&show_icons=true&locale=en" alt="bh4vya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bh4vya&" alt="bh4vya" /></p>
-
 
 
 <h3 align="left">Video Work Samples:</h3>
